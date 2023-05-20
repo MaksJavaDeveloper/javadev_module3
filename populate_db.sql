@@ -15,7 +15,7 @@ VALUES
 ('Vlad Mikhaylov', '1995-03-20', 'Trainee', 900);
 
 --Додаю 6 клієнтів
-INSERT INTO client name
+INSERT INTO client (name)
 VALUES
 ('Sergey Petrov'),
 ('Maksim Demidov'),
